@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @malinthann
+- 👋 Hi, I’m Malin
 - 👀 I’m interested in whatever it is
 - 🌱 I’m currently learning Angular/React 
 - 💞️ I’m looking to collaborate on Mobile Dev
